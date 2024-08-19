@@ -1,0 +1,120 @@
+
+.view-port {
+  background-color: #412c3a;
+}
+.container-sidebar{
+  padding: 34px 16px 16px 16px; 
+}
+.melodies {
+  font-family: Vazirmatn;
+  font-size: 60px;
+  font-weight: 800;
+  line-height: 62.5px;
+  margin-bottom: 10px;
+  background: linear-gradient(90.07deg, #EE10B0 -4.82%, rgba(14, 158, 239, 0.92) 127.01%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-size: 48px; 
+  font-weight: bold; 
+}
+.melodies-box {
+  margin-left: -15px;
+  padding: 0;
+}
+
+.icon-side {
+  width: 18.75px;
+  height: 18.75px;
+}
+
+.textbox {
+  font-size: 24px;
+}
+
+.header-bar {
+  height: 76px;
+}
+
+.search-box {
+  background: #656565;
+}
+
+.header-items {
+  font-family: Vazirmatn;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.header-right {
+  margin-left: 80px;
+}
+.login {
+  background: black;
+  color: #EE10B0;
+}
+
+.sign-up {
+  background: #EE10B0;
+  color: black;
+}
+
+.item {
+  font-family: Vazirmatn;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.foot-main {
+  background-color: #f1f1f1;
+}
+
+
+.box-icon,
+.box-discover,
+.box-albums,
+.box-artists {
+  transition: background-color 0.3s ease, color 0.3s ease, border-radius 0.3s ease, box-shadow 0.3s ease;
+}
+
+.active-effect {
+  background-color: #be1186; 
+  border-radius: 5px; 
+  box-shadow: 
+    0 0 15px 5px rgba(255, 0, 255, 0.8), 
+    inset 0 0 5px rgba(255, 255, 255, 0.3); 
+  transition: box-shadow 0.3s ease-in-out; 
+}
+
+.icon-side {
+  width: 25px;
+  height: 25px;
+}
+
+.text-section {
+  color :#EE10B0;
+}
+
+.custom-underline{
+  text-underline-offset: 5px;
+}
+.melodies-footer{
+  font-family: Vazirmatn;
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 62.5px;
+  margin-bottom: 10px;
+  background: linear-gradient(90.07deg, #EE10B0 -4.82%, rgba(14, 158, 239, 0.92) 127.01%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: bold; 
+  margin-top: -12px;
+}
+
+.text-content{
+  font-size: 20px;
+}
+.text-long{
+  font-size: 18px;
+}
