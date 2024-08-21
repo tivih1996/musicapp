@@ -1,0 +1,38 @@
+{
+  "user": [
+    {
+      "id": "0fb9",
+      "firstname": "duc",
+      "lastname": "thuan",
+      "email": "vutuanthai.hcm@gmail.com",
+      "password": "355371",
+      "confirmpassword": "355371"
+    },
+    {
+      "id": "5dad",
+      "firstname": "thu",
+      "lastname": "minh",
+      "email": "minhthu@gmail.com",
+      "password": "908722",
+      "confirmpassword": "908722"
+    },
+    {
+      "id": "84aa",
+      "firstname": "thanh",
+      "lastname": "thaao",
+      "email": "thanhthao@gmail.com",
+      "password": "355371",
+      "confirmpassword": "355371",
+      "gender": "male"
+    },
+    {
+      "id": "653e",
+      "firstname": "tien",
+      "lastname": "hai",
+      "email": "vantien@yahoo.com",
+      "password": "123499",
+      "confirmpassword": "123499",
+      "role": "Artist"
+    }
+  ]
+}

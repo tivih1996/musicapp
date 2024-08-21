@@ -1,6 +1,6 @@
 import React from 'react'
 
-function ArtistLogin() {
+function Login() {
   return (
     <div className="text" style={{background:'red'}}>
       <div >ArtistLogin</div>
@@ -9,4 +9,4 @@ function ArtistLogin() {
   )
 }
 
-export default ArtistLogin
+export default Login
