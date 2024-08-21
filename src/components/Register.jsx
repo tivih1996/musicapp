@@ -9,7 +9,7 @@ function Register() {
     email: '',
     password: '',
     confirmpassword: '',
-    role: '', // Thêm trường giới tính
+    role: '', 
   });
   const [errors, setErrors] = useState({});
   const [valid, setValid] = useState(true);

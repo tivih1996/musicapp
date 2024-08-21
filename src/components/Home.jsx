@@ -118,7 +118,7 @@ function Home() {
             <Link to="#premuim" className='premuim text-decoration-none text-light fs-4'>Premuim</Link>
           </div>
           <div className="header-right d-flex">
-            <Link to="#login" className='login btn btn-dark text-light me-2 fs-5'>Login</Link>
+            <Link onClick={() => navigate('/login')}  to="#login" className='login btn btn-dark text-light me-2 fs-5'>Login</Link>
             <Link onClick={() => navigate('/register')}  to="#signup" className='sign-up btn btn-primary text-light fs-5'>Sign Up</Link>
           </div>
         </div>
